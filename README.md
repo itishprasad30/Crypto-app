@@ -3,7 +3,7 @@
 Tech that is used in this app
 🚀🧐🚀🚀🚀👩‍💻
 
-👉React
+👉React v 18 updated
 👉Redux -toolkit
 👉Rapid-Api Hub
 
